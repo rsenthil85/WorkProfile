@@ -1,0 +1,146 @@
+Relevant Project Experience
+
+Project1
+Client   	Comerica Bank, MI, USA. 
+Role 	Onsite – Test lead(UAT) 
+Duration 	Jun 2023 to Till date 
+Technology / Tools	Technology: Manual testing, API Testing
+Tools: Jira, qTest, Postman
+Project: Card Management applications –Mastercard Portfolio Viewer to FIS Payments One Debit application. Transaction Processing for Retail Debit cards – FIS will develop code to send transactions keeping the same format as we use with PTS (HISO). Fraud applications and processing – Several Fraud applications will change to support the new FIS processor. Migrate customer, accounts and cards records from PV to FIS system.
+▪	Review the Data migration plan, data mapping document and transaction requirements
+▪	Define implementation schedule plan, UAT entry criteria and UAT action plan
+▪	Create UAT test scripts for the data migration and for different user roles
+▪	Execute UAT tests in qTest to validate the changes during Data migration and new application implementation to ensure there is impact in existing business flow.
+▪	Coordinate with downstream application owners on development and integration of application connectivity to perform end to end testing
+▪	Provide UAT test schedule and define UAT deliverables
+▪	Coordinate with other workstreams to get align with business requirements
+▪	UAT test execution and report the status to business sponsors
+▪	UAT exit check and Production deployment signoff
+
+Client   	Comerica Bank, MI, USA. 
+Role 	Offshore - Test Lead 
+Duration 	Nov 2020 to May 2023 
+Technology / Tools 	Technology: React Native, Automation & Manual testing 
+Tools: Appium, IntelliJ, Appium Inspector, Android studio, Xcode, API testing using Postman
+Project#1: Treasury Management mobile: This project is focused on transitioning service to a new, modern React Native based mobile platform to ensure continuity of service while also improving user experience. 
+Project#2: New Teller application upgrade and migration to cloud: This project is focused on replacing the old legacy teller application to new cloud based teller application, which enables the Bank user to access user friendly UI features. Also migrate the teller and reconciliation ETL jobs to cloud 
+▪	Create and enhance numerous test scripts and ATDDs to handle changes in the New mobile application UI in QA environment using Appium and java. 
+▪	Automation Testing using Appium, BDD cucumber and TestNG Framework. 
+▪	Update the page objects, test scripts, test data and utility files in Appium Automation Framework. 
+▪	Create, update, and maintain Automation regression suite periodically and execute the suite end of each sprint/release. 
+▪	Validate the API request and  response using Postman
+▪	Status reporting on a daily and weekly basis detailing the test progress, outstanding defects, risks, and mitigation plan to complete as per plan. 
+▪	Participate in requirements Grooming sessions and sprint planning sessions to set the Acceptance criteria for each user story. 
+▪	Provide demo to Product owner for all testing user stories for each sprint 
+▪	Played BA/SME role for New teller upgrade project and owned the ETL jobs cloud migration and achieved as per the plan without any deviation. 
+
+Project  	KPMG – CPM & TCM 
+Role	Test Lead (Automation Specialist)
+Duration	May 2018 to Nov 2020
+Technology / Tools	Technology: Automation Testing using Selenium, Jmeter
+Tools: Visual Studio 2015, Jira, Xray test, Postman
+CPM(Contract Performance Manager) & TCM(Transport Commitment Management) are web-based applications designed on top of Service now Platform. which helps the clients to track their account budget Consumption, Charges and Performance. And maintain the Telecom Contracts for customers.
+▪	Automation Testing using Selenium Web-Driver and ServiceNow ATF..
+▪	Created and enhanced numerous test scripts to handle changes in the objects, in the tested application’s GUI and in the testing environment using Selenium WebDriver.
+▪	Automation test development using ServiceNow ATF(Automated Test Framework) with custom step configs and script include javascript classes.
+▪	Review and analyze Business Requirements and create automation Test Plans, Test Cases, Test Scripts, Test Estimation & Requirement Traceability Matrix
+▪	Perform Smoke Testing, Backed end Testing, Black-Box Testing, User Acceptance Testing (UAT), Functional Testing, Positive/ Negative Testing, System Testing, Regression Testing, GUI Software Testing, API testing, Ad-hoc Testing, Cross Browser/ Cross Platform Testing, UI Validation, WebServices, Boundary Value Testing, Performance testing using Jmeter.
+▪	Involved in project management activities that required preparation of various management reports and Metrics
+▪	Updating the Page objects, Test scripts, Test data and Utility files in ServiceNow Framework
+▪	Regression suite update and execution end of each sprint/release.
+▪	Automation Status Reports on daily and weekly basis detailing the test progress, outstanding defects, risks and mitigation plan to complete as per plan.
+▪	New automation tool evaluation, creating automation POC for new areas where automation is not done/ less feasibility of automation.
+
+Project  	AIG GTS Corporate F&A 
+Role 	Test Lead 
+Duration 	Aug 2017 to Apr 2018 
+Technology / Tools 	Technology: Functional & Database Testing 
+Tools: HP ALM 
+AIG is one of the Leading organizations in managing complex risks by providing various products and delivering insights that help a wide range of industries around the world prevent losses and achieve better outcomes.  
+As part of GTS, our scope is to work with Financials & Actuaries for Corporate business. There are 2 major applications Cashman & SDI+ which are used to process the Financial data from Over the counter to Central repository. 
+CASHMAN is a component of S3. It is used for over-the-counter receipt to accept and create receipts for payment of policy premiums and general ledger (GL). Here, producers are primary payers. CASHMAN is used by branch offices and depends on the same. 
+▪	Leading the Corporate F&A project from Off-shore and delivering High quality products to customers. 
+▪	Review and analyze Business Requirements and create automation Test Plans, Test Cases, Test Scripts, Test Estimation & Requirement Traceability Matrix
+▪	Production Incidents validation in ST & IST environment and Delivered on time 
+▪	Involved in project management activities that required preparation of –  
+•	Test Plan/Strategy 
+•	Test Estimation 
+•	Resource plan, Monthly governance, UBR and Forecasting 
+•	Test Run plan 
+▪	Defect Management effectively driven ensuring defects closed on time to meet testing schedule 
+▪	Status Reports published daily and on weekly basis detailing the test progress, outstanding defects, risks and mitigation plan to complete each test phase as per plan 
+
+Project  	Discover - Card Internet 
+Role	Test Lead
+Duration	Jan 2016 to June 2017
+Technology / Tools	Technology: Functional & Automation Testing
+Tools: Jira, Selenium, Postman(API)
+Discovercard.com is a web-based application designed for the customers to apply for a credit card and keep track of all transactions online. There are different applications in the Discover card website like Online payments, Statements, Send Money, Rewards, Online shopping, Protection solution, Customer service which helps customers in various ways to manage their credit card account. Event bus is a highly available messaging system that can be used in a “publish & subscribing” fashion to enable the business application. Messages which are published to the bus once can be utilized by many business applications with less BT involvement than direct system to system data interaction. Using events, application can be written to react to business interaction in near real time
+▪	Performed as lead for Internet security and fraud backlog project which was one of the critical projects in Card Internet portfolio.
+▪	Performed functional testing to identify various critical points in the application and automated it by using Selenium Web-Driver with TestNG.
+▪	Created and enhanced numerous test scripts to handle changes in the objects, in the tested application’s GUI and in the testing environment using Selenium WebDriver.
+▪	Involved in project management activities that required preparation of – 
+•	Test Plan/Strategy
+•	Test Estimation
+•	Test Run plan
+▪	Defect Management effectively driven ensuring defects closed on time to meet testing schedule
+▪	Status Reports published daily and on weekly basis detailing the test progress, outstanding defects, risks and mitigation plan to complete each test phase as per plan
+▪	Implementing in-sprint automation and n-1 automation of reusable test cases
+▪	Owning the automation transformation (E2E automation for all applications in Card Internet project) activity for Card Internet project
+
+Project  	CITI Bank Trade Finance for Corporate customers 
+Role	Test lead & Senior Test Analyst
+Duration	Apr 2012- Dec 2015
+Technology / Tools	Technology: Manual Testing, DB validation Tools: HP ALM, Unix & Oracle SQL Developer
+CITI BANK (ASIA Testing Centre of Excellence)
+Application 1: CitiConnect Trade (Trade Finance for Corporate customers)
+CitiConnect Trade(CCT) is a web-based platform supporting needs of buyers and suppliers under open account. It provides payable management, receivable management, Sale of Receivables and invoice management in an integrated platform.CCT is designed to streamline the process from invoice issuance to final settlement.  Buyers can upload electronic invoices and upload payment files in CCT. Buyers can access the status of their payment instructions anywhere anytime in their preferred language. It helps the suppliers to convert accounts receivables to cash.
+Application 2: Document Preparation System (Trade Finance for Corporate customers)
+The Document Preparation System (DocPrep or DOP in short) is one of the important systems in trade document maintenance for Banks. It essentially ensures accurate and up-to-date communication between the bank and the customer. The DOP system provides trade document preparation services to exporters / sellers who use Letter Credit (L/C), Open Account, Collection, etc. to move goods. Banks, exporters, buyers and other third parties can examine and communicate through this platform’s web enabled capabilities.
+Application 3: Flexcube 4.9 (Core Banking)
+Liquidity Management Interest calculations, Liquidity management philosophy is embedded in the Funding Framework – the set of rules and guidelines for determining the appropriate funding based on the sweep and pooling for CASA. There are 2 categories of interest products Slab and Tier. Daily interest has been calculated based on the product added to the account. Interest calculations for OD account in Sweep structure and Pool structure
+▪	FRD/MDD/FSD analysis and query tracker maintenance
+▪	Preparation of Integration Test plan for releases and enhancements.
+▪	SIT Test execution and log the new defects in QC and track the defects till closure.
+▪	Retest the defects in SIT after fix.
+▪	Circulated Daily and weekly execution report and defect status report call with development team and stakeholders.
+▪	Run the shell scripts and backend processing jobs in Unix terminal(Tectia SSH client)
+▪	Providing Sign Offs and closure reports to support and development team
+▪	Handled many releases parallel
+▪	Lead a team of 4 and mentor the new joiners
+
+Project  	CitiDirect BE 1.2 Poland 
+Role	Test Analyst
+Duration	Apr 2011- Apr 2012
+Technology / Tools	Technology: Manual Testing, DB Testing Tools: HP QC, Team track, Oracle SQL Developer
+Project Abstract: CitiDirect BE 1.2 Poland, The current SME version of the CitiDirect application implemented for CitiDirect BE 1.2 clients needs to be enhanced to increase the client satisfaction, enrich the user experience and to be on par with the other cash management products offered by competitive Banks.
+          The main goal of the project is to increase Bank Handlowy customer satisfaction from CitiDirect usage. Poland market of electronic banking grew rapidly during the last 2 years. Most of the banks provide to customers quick and easy access to cash, trade, loans, treasury and investment products via online platforms.
+▪	Execute test cases in SIT and UAT in HP QC.
+▪	Logging the defects in Team Track and track the defects till closure.
+▪	Retest the defects in Pre-SIT and UAT after fix.
+▪	DB validation for payments and collections.
+▪	Perform sanity testing in Pre-SIT for every build release.
+▪	Circulated Daily and weekly defect status report mails to stakeholders.
+▪	Deriving test cases based on business requirements and technical specifications
+▪	Involved in functionality, regression, browser compatibility testing
+
+Project  	Standard Chartered - Anti-Money Laundering Program (Compliance) 
+Role	Test Analyst
+Duration	Apr 2008 - Mar 2011
+Technology / Tools	Technology: Manual & Automation Testing, Tools: HP QC, QTP
+Project Abstract:
+	The Group AML Program has been commissioned to define and implement more effective procedures including systems in order to reduce the risk of money laundering, terrorist financing and breaches of sanctions. The Test Analysts manage the end-to-end testing of the AML Solution in a designated hub and the countries that are connected to that Hub.
+Projects Implemented: Norkom Transaction Monitoring (Alchemist)
+Norkom Transaction Monitoring (Alchemist) is an AML (Anti Money Laundering) application, implemented in the following SCB branches across countries:
+⮚	2008 – SCB United Arab Emirates, China, Thailand and also implemented Norkom AML Solution for American Express Bank (AEB) migrated countries - United States, Hong Kong, Singapore, United Kingdom & Japan (AEB taken over by SCB).
+⮚	2009 – AEB Countries Geneva & Frankfurt. Also implemented AML CMR (Customer Match Results) for both AEB (American Express Bank) and SCB (Standard Chartered Bank) countries.
+⮚	2010 - Involved in Transaction Monitoring-Enhancement Project with additional functionality.
+⮚	2010- Transactions Monitoring Enhancement phase-II
+⮚	2010-11- Transaction Match Report(TMR) rollout
+
+Role:
+▪	Analyze Business Requirement Documents, Functional Specifications and Test Strategy to create comprehensive test plans for the AML Solution. 
+▪	Integrate information and concepts to create clear test cases, user manuals, and test scripts
+▪	Executing the test scripts and raise defects through HP Quality Center 10.0 Enterprise Edition & actively participating in the resolution.
+▪	Performing retest / regression tests whenever fix received from the System development team.
+▪	Coordinate training of end users on the business side during testing and implementation.
